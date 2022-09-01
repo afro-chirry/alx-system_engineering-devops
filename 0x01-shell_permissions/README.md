@@ -7,3 +7,4 @@ Execute permission to owner only
 Execute permission to owner and group owner
 Execute permission to everybody
 All permission to other users
+All permissions to owner
