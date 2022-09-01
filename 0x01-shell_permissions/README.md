@@ -10,3 +10,4 @@ All permission to other users
 All permissions to owner
 Same attributes of files
 Permission to subdirectories
+Making directories with permissions
