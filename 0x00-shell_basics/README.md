@@ -12,3 +12,4 @@ Previous directory
 Long format listing
 classify file
 creating symbolic links
+copy html files
