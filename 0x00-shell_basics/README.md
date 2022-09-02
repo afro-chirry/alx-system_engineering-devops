@@ -11,3 +11,4 @@ Deleting a directory
 Previous directory
 Long format listing
 classify file
+creating symbolic links
