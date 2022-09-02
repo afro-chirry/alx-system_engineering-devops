@@ -10,3 +10,4 @@ Deleting a file
 Deleting a directory
 Previous directory
 Long format listing
+classify file
