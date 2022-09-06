@@ -6,3 +6,4 @@ Script that lists environmental variables
 All local and environmental variables and functions
 Script that creates a new local variable
 Script that creates a new global variable
+True knowledge
