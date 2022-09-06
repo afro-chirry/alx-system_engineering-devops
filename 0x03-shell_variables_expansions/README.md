@@ -9,3 +9,4 @@ Script that creates a new global variable
 True knowledge
 Power divided by divide
 Breath to the power of love
+Binary to decimal
