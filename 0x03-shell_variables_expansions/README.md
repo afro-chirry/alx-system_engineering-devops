@@ -10,3 +10,4 @@ True knowledge
 Power divided by divide
 Breath to the power of love
 Binary to decimal
+Combination of letters
