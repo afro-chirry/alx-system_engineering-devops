@@ -7,3 +7,4 @@ Displaying current directory contents
 Creating a directory
 Moving a file
 Deleting a file
+Deleting a directory
