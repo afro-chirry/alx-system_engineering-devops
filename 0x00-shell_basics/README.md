@@ -10,3 +10,4 @@ Deleting a file
 Deleting a directory
 Previous directory
 List all files in directories
+Print a file
