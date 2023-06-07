@@ -5,3 +5,4 @@ Listing contents in long format
 Listing hidden files
 Displaying current directory contents
 Creating a directory
+Moving a file
