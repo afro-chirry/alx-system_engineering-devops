@@ -11,3 +11,4 @@ Deleting a directory
 Previous directory
 List all files in directories
 Print a file
+Create a symbolic link
